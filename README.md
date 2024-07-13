@@ -33,9 +33,9 @@ This project is a web application developed using Angular, .NET C#, and PostgreS
 - **Mission Management**: Add, delete, and update mission details.
 - **Mission Skill Management**: Add, delete, and update mission skills.
 - **Mission Theme Management**: Add, delete, and update mission themes.
-- **Mission Application Management**: Review and manage mission applications.
+- **Mission Application Management**: manage mission applications.
 
 ### User Side
 
 - **Registration and Login**: Register a new account and login.
-- **Apply for Missions**: Browse and apply for available missions.
+- **Apply for Missions**: apply for available missions.
