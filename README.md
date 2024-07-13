@@ -1,75 +1,41 @@
-# Project Name: Mission Management System
-
 ## Description
-This project is a Mission Management System developed using Angular, .NET C#, and PostgreSQL. The system provides a web API for login registration and the creation of admin and user profiles. It offers functionalities for both admins and users, with different capabilities based on their roles.
 
-### Admin Features:
-- Add, delete, and update users
-- Add, delete, and update missions
-- Add, delete, and update mission skills
-- Add, delete, and update mission themes
-- Add, delete, and update mission applications
+This project is a web application developed using Angular, .NET C#, and PostgreSQL. It includes both admin and user functionalities:
 
-### User Features:
-- Apply for missions
-- Update user profiles
+### Admin Side
+- Add, delete, and update users.
+- Manage missions: add, delete, and update missions.
+- Manage mission skills and themes.
+- manage mission applications.
+
+### User Side
+- Register and login.
+- Apply for missions.
+- Update user profile.
 
 ## Technologies Used
-- **Frontend:** Angular
-- **Backend:** .NET C#
-- **Database:** PostgreSQL
 
-## Progress Bar
-Below is a visual representation of the technology usage in the project.
+- **Angular**: Frontend framework for building the user interface.
+- **.NET C#**: Backend framework for creating web APIs.
+- **PostgreSQL**: Database for storing application data.
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Progress Bar</title>
-  <style>
-    .progress-bar {
-      width: 100%;
-      background-color: #f3f3f3;
-      border: 1px solid #ddd;
-      border-radius: 5px;
-      overflow: hidden;
-      margin: 10px 0;
-    }
-    .progress {
-      height: 30px;
-      border-radius: 5px;
-      line-height: 30px;
-      color: white;
-      text-align: center;
-      transition: width 0.3s;
-    }
-    .angular {
-      background-color: #dd0031;
-      width: 40%; /* Example percentage */
-    }
-    .dotnet {
-      background-color: #512bd4;
-      width: 35%; /* Example percentage */
-    }
-    .postgresql {
-      background-color: #336791;
-      width: 25%; /* Example percentage */
-    }
-  </style>
-</head>
-<body>
-  <h2>Technologies Usage Progress</h2>
-  <div class="progress-bar">
-    <div class="progress angular">Angular (40%)</div>
-  </div>
-  <div class="progress-bar">
-    <div class="progress dotnet">.NET C# (35%)</div>
-  </div>
-  <div class="progress-bar">
-    <div class="progress postgresql">PostgreSQL (25%)</div>
-  </div>
-</body>
-</html>
+## Progress
+
+![Progress](https://img.shields.io/badge/Angular-100%25-brightgreen)
+![Progress](https://img.shields.io/badge/.NET%20C%23-100%25-brightgreen)
+![Progress](https://img.shields.io/badge/PostgreSQL-100%25-brightgreen)
+
+## Features
+
+### Admin Side
+
+- **User Management**: Add, delete, and update user details.
+- **Mission Management**: Add, delete, and update mission details.
+- **Mission Skill Management**: Add, delete, and update mission skills.
+- **Mission Theme Management**: Add, delete, and update mission themes.
+- **Mission Application Management**: Review and manage mission applications.
+
+### User Side
+
+- **Registration and Login**: Register a new account and login.
+- **Apply for Missions**: Browse and apply for available missions.
