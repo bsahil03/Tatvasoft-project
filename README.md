@@ -1,27 +1,9 @@
-# Project Title
-
-This project is a web application developed using Angular, .NET C#, and PostgreSQL. It includes web APIs for login registration, and the creation of admin and user-side profiles. 
-
-## Features
-
-### Admin Side
-- Add, delete, and update users
-- Add, delete, and update missions
-- Add, delete, and update mission skills
-- Add, delete, and update mission themes
-- Add, delete, and update mission applications
-
-### User Side
-- Apply for missions
-- Update user profile
-
-## Technologies Used
-
-- **Frontend:** Angular
-- **Backend:** .NET C#
-- **Database:** PostgreSQL
+- **Angular**: Frontend framework for building the user interface.
+- **.NET C#**: Backend framework for creating web APIs.
+- **PostgreSQL**: Database for storing application data.
 
 ## Progress
 
-### Frontend (Angular)
-[######################] 100%
+![Progress](https://img.shields.io/badge/Angular-100%25-brightgreen)
+![Progress](https://img.shields.io/badge/.NET%20C%23-100%25-brightgreen)
+![Progress](https://img.shields.io/badge/PostgreSQL-100%25-brightgreen)
